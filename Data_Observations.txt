@@ -1,0 +1,7 @@
+Observations and Insights on the Data Collected: 
+   - Based on the summary statistics table for the tumor volume for each regimen, Ramicane had the lowest tumor volume average. Capomulin came a close second 
+     demonstrating there was a better performance found in the another treatment that was not Pymaceuticals' drug of interest, Capomulin.
+   - Another insight and observation founded in the data, specifically a bar plot, shows Capomulin having the most number of timpoints for all the mice tested. 
+     Ramicane came close second. 
+   - Even though Capomulin showed massive effectiveness, according the correlation coefficient and linear regression model, effectiveness is based on the weight 
+      of each mouse. The smaller the mice the smaller the tumor, and the more effective the drug is. 
